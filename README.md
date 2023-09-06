@@ -1,7 +1,7 @@
 # Portfolio-html-css-js
 MY PORTFOLIO WEBSITE
 
-This is a personal portfolio project that i am currently working on until full functionability and features.
+This is a personal portfolio project example that i worked on until full functionability and features.
 
 Link to website below
 
